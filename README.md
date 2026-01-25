@@ -19,6 +19,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 | # | Problem Name | Approach | Status |
 |---|-------------|----------|--------|
 | 1 | Two Sum | Brute Force | ✅ Solved |
+| 2 | Remove Duplicates from Sorted Array | Two Pointer | ✅ Solved |
 
 ---
 
@@ -28,6 +29,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 DSA-with-Java/
 │
 ├── Arrays/
-│   └── TwoSum.java
-│
+│   └── twoSum.java
+│   ├── removeDuplicatesFromSortedArray.java
+|
 └── README.md
