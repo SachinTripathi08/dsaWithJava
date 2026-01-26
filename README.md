@@ -20,6 +20,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 |---|-------------|----------|--------|
 | 1 | Two Sum | Brute Force | ✅ Solved |
 | 2 | Remove Duplicates from Sorted Array | Two Pointer | ✅ Solved |
+| 3 | Remove Element | Two Pointer | ✅ Solved |
 
 ---
 
@@ -31,5 +32,6 @@ DSA-with-Java/
 ├── Arrays/
 │   └── twoSum.java
 │   ├── removeDuplicatesFromSortedArray.java
+|   ├──Remove Element
 |
 └── README.md
