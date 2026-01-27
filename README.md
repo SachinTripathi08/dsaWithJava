@@ -8,7 +8,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays**
-- ✅ Problems Solved: **1**
+- ✅ Problems Solved: **4**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
