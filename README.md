@@ -8,7 +8,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays**
-- ✅ Problems Solved: **4**
+- ✅ Problems Solved: **5**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -22,6 +22,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 | 2 | Remove Duplicates from Sorted Array | Two Pointer | ✅ Solved |
 | 3 | Remove Element | Two Pointer | ✅ Solved |
 | 4 | Search Insert Position | Linear Search | ✅Solved
+| 5 | ContainsDuplicate | HashSet | ✅Solved
 
 ---
 
@@ -31,9 +32,10 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 DSA-with-Java/
 │
 ├── Arrays/
-│   └── twoSum.java
-│   ├── removeDuplicatesFromSortedArray.java
-|   ├──Remove Element
-|   ├──Search Insert Position
+│   └── TwoSum.java
+│   ├── RemoveDuplicatesFromSortedArray.java
+|   ├── Remove Element
+|   ├── Search Insert Position
+|   ├── ContainsDuplicate
 |
 └── README.md
