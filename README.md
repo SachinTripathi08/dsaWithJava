@@ -23,8 +23,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 | 3 | Remove Element | Two Pointer | ✅ Solved |
 | 4 | Search Insert Position | Linear Search | ✅Solved
 | 5 | ContainsDuplicate | HashSet | ✅Solved
-
----
+| 6 | SingleNumber | XOR | ✅Solved
 
 ## 📁 Repository Structure
 
@@ -37,5 +36,6 @@ DSA-with-Java/
 |   ├── Remove Element
 |   ├── Search Insert Position
 |   ├── ContainsDuplicate
+|   ├── SingleNumber
 |
 └── README.md
