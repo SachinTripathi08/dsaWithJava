@@ -8,7 +8,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays**
-- ✅ Problems Solved: **7**
+- ✅ Problems Solved: **8**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -24,7 +24,8 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 | 4 | Search Insert Position | Linear Search | ✅Solved
 | 5 | ContainsDuplicate | HashSet | ✅Solved
 | 6 | SingleNumber | XOR | ✅Solved
-| 7 |Largest Number At Least Twice of Others | Greedy | ✅Solved
+| 7 | Largest Number At Least Twice of Others | Greedy | ✅Solved
+| 8 | Find the XOR of Numbers Which Appear Twice | Brute Force | ✅Solved
 
 ## 📁 Repository Structure
 
@@ -39,5 +40,6 @@ DSA-with-Java/
 |   ├── ContainsDuplicate
 |   ├── SingleNumber
 |   ├── Largest Number At Least Twice of Others
+|   ├── Find the XOR of Numbers Which Appear Twice
 |
 └── README.md
