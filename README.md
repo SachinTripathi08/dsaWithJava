@@ -8,7 +8,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String**
-- ✅ Problems Solved: **11**
+- ✅ Problems Solved: **12**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -28,6 +28,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 | 8 | Find the XOR of Numbers Which Appear Twice | Brute Force | ✅Solved
 | 9 | Squares of a Sorted Array | Brute Force with Sorting | ✅Solved
 | 10| Three Consecutive Odds | Sliding Window / Array Traversal | ✅Solved
+| 11| Merge Sorted Array | Brute Force Approach | ✅Solved
 
 ### String
 | # | Problem Name | Approach | Status |
@@ -51,6 +52,7 @@ DSA-with-Java/
 |   ├── Find the XOR of Numbers Which Appear Twice
 |   ├── Squares of a Sorted Array
 |   ├── Three Consecutive Odds
+|   ├── Merge Sorted Array
 |
 |
 ├── String/
