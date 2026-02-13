@@ -8,7 +8,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String**
-- ✅ Problems Solved: **12**
+- ✅ Problems Solved: **13**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -34,6 +34,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 | # | Problem Name | Approach | Status |
 |---|-------------|----------|--------|
 | 1 | Valid Parentheses | STACK | ✅ Solved 
+| 2 | Find the Difference | XOR | ✅ Solved
 
 
 ## 📁 Repository Structure
@@ -57,5 +58,6 @@ DSA-with-Java/
 |
 ├── String/
 |   └── Valid Parentheses
+|   ├── Find the Difference
 |
 └── README.md
