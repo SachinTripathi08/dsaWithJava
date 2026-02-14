@@ -8,7 +8,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String**
-- ✅ Problems Solved: **14**
+- ✅ Problems Solved: **15**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -29,6 +29,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 | 9 | Squares of a Sorted Array | Brute Force with Sorting | ✅Solved
 | 10| Three Consecutive Odds | Sliding Window / Array Traversal | ✅Solved
 | 11| Merge Sorted Array | Brute Force Approach | ✅Solved
+| 12| Move Zeroes | One-Pass Swap (Two Pointers) | ✅Solved
 
 ### String
 | # | Problem Name | Approach | Status |
@@ -55,6 +56,7 @@ DSA-with-Java/
 |   ├── Squares of a Sorted Array
 |   ├── Three Consecutive Odds
 |   ├── Merge Sorted Array
+|   ├── Move Zeroe
 |
 |
 ├── String/
