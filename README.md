@@ -37,7 +37,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 |---|-------------|----------|--------|
 | 1 | Valid Parentheses | STACK | ✅ Solved 
 | 2 | Find the Difference | XOR | ✅ Solved
-| 2 | Valid Anagram | Sorting Method | ✅ Solved
+| 3 | Valid Anagram | Sorting Method | ✅ Solved
 
 
 ## 📁 Repository Structure
