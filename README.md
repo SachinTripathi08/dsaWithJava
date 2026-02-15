@@ -30,6 +30,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 | 10| Three Consecutive Odds | Sliding Window / Array Traversal | ✅Solved
 | 11| Merge Sorted Array | Brute Force Approach | ✅Solved
 | 12| Move Zeroes | One-Pass Swap (Two Pointers) | ✅Solved
+| 13| Max Consecutive ones | Counting / Linear Scan (Single Pass Traversal) | ✅Solved
 
 ### String
 | # | Problem Name | Approach | Status |
@@ -56,8 +57,8 @@ DSA-with-Java/
 |   ├── Squares of a Sorted Array
 |   ├── Three Consecutive Odds
 |   ├── Merge Sorted Array
-|   ├── Move Zeroe
-|
+|   ├── Move Zeroes
+|   ├── Max Consecutive ones
 |
 ├── String/
 |   └── Valid Parentheses
