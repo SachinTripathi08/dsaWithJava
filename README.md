@@ -8,7 +8,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String**
-- ✅ Problems Solved: **18**
+- ✅ Problems Solved: **19**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -31,6 +31,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 | 11| Merge Sorted Array | Brute Force Approach | ✅Solved
 | 12| Move Zeroes | One-Pass Swap (Two Pointers) | ✅Solved
 | 13| Max Consecutive ones | Counting / Linear Scan (Single Pass Traversal) | ✅Solved
+| 14| Two Sum II - Input Array Is Sorted | Two Pointer | ✅Solved
 
 ### String
 | # | Problem Name | Approach | Status |
@@ -65,6 +66,7 @@ DSA-with-Java/
 |   ├── Merge Sorted Array
 |   ├── Move Zeroes
 |   ├── Max Consecutive ones
+|   ├── Two Sum II - Input Array Is Sorted
 |
 ├── String/
 |   └── Valid Parentheses
