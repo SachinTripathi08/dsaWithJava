@@ -1,0 +1,18 @@
+class Solution {
+    public int[] shuffle(int[] nums, int n) {
+        int[] arr= new int[2*n];
+        int len=nums.length/2;
+        int k=0;
+        for(int i=0;i<len;i++){
+            arr[k]=nums[i];
+            k+=2;
+        }
+        int l=1;
+        for(int i=len;i<nums.length;i++){
+
+            arr[l]=nums[i];
+            l+=2;
+        }
+        return arr;
+    }
+}
