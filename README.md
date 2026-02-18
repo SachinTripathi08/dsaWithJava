@@ -8,7 +8,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String**
-- ✅ Problems Solved: **19**
+- ✅ Problems Solved: **20**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -32,6 +32,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 | 12| Move Zeroes | One-Pass Swap (Two Pointers) | ✅Solved
 | 13| Max Consecutive ones | Counting / Linear Scan (Single Pass Traversal) | ✅Solved
 | 14| Two Sum II - Input Array Is Sorted | Two Pointer | ✅Solved
+| 15| Best Time to Buy and Sell Stock | Greedy Approach | ✅Solved
 
 ### String
 | # | Problem Name | Approach | Status |
@@ -67,6 +68,7 @@ DSA-with-Java/
 |   ├── Move Zeroes
 |   ├── Max Consecutive ones
 |   ├── Two Sum II - Input Array Is Sorted
+|   ├── Best Time to Buy and Sell Stock
 |
 ├── String/
 |   └── Valid Parentheses
