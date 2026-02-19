@@ -8,7 +8,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String**
-- ✅ Problems Solved: **22**
+- ✅ Problems Solved: **23**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -35,6 +35,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 | 15| Best Time to Buy and Sell Stock | Greedy Approach | ✅Solved
 | 16| Concatenation of Array | Simulation / Direct Construction Approach | ✅Solved
 | 17| Shuffle the Array | Direct Simulation / Index Manipulation Approach | ✅Solved
+| 18| Set Mismatch | Using Frequency | ✅Solved
 
 
 ### String
@@ -74,6 +75,7 @@ DSA-with-Java/
 |   ├── Best Time to Buy and Sell Stock
 |   ├── Concatenation of Array
 |   ├── Shuffle the Array
+|   ├── Set Mismatch
 |
 ├── String/
 |   └── Valid Parentheses
