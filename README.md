@@ -36,6 +36,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 | 16| Concatenation of Array | Simulation / Direct Construction Approach | ✅Solved
 | 17| Shuffle the Array | Direct Simulation / Index Manipulation Approach | ✅Solved
 | 18| Set Mismatch | Using Frequency | ✅Solved
+| 19| How Many Numbers Are Smaller Than the Current Number | Brute Force | ✅Solved
 
 
 ### String
@@ -76,6 +77,7 @@ DSA-with-Java/
 |   ├── Concatenation of Array
 |   ├── Shuffle the Array
 |   ├── Set Mismatch
+|   ├── How Many Numbers Are Smaller Than the Current Number
 |
 ├── String/
 |   └── Valid Parentheses
