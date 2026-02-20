@@ -8,7 +8,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String**
-- ✅ Problems Solved: **24**
+- ✅ Problems Solved: **25**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -47,11 +47,17 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 | 3 | Valid Anagram | Sorting Method | ✅ Solved
 | 4 | TO Lower Case | String Manipulation using Inbuilt Method | ✅ Solved
 
+ 
+### Stack
+| # | Problem Name | Approach | Status |
+|---|-------------|----------|--------|
+| 1 | Build an Array With Stack Operations | Simulation Approach (with Two Pointers) | ✅ Solved
+
 
 ### Math
 | # | Problem Name | Approach | Status |
 |---|-------------|----------|--------|
-| 1 | Reverse integer | Digit Extraction + Rebuilding | ✅ Solved 
+| 1 | Reverse integer | Digit Extraction + Rebuilding | ✅ Solved
 
 ## 📁 Repository Structure
 
@@ -84,6 +90,9 @@ DSA-with-Java/
 |   ├── Find the Difference
 |   ├── Valid Anagram
 |   ├── TO Lower Case
+|
+├── Stack/
+|   └── Build an Array With Stack Operations
 |
 ├── Math/
 |   └── Reverse Integer
