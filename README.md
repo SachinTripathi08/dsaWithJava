@@ -8,7 +8,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String**
-- ✅ Problems Solved: **25**
+- ✅ Problems Solved: **26**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -52,6 +52,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 | # | Problem Name | Approach | Status |
 |---|-------------|----------|--------|
 | 1 | Build an Array With Stack Operations | Simulation Approach (with Two Pointers) | ✅ Solved
+| 2 | Evaluate Reverse Polish Notation | Stack (LIFO) | ✅ Solved
 
 
 ### Math
@@ -93,6 +94,7 @@ DSA-with-Java/
 |
 ├── Stack/
 |   └── Build an Array With Stack Operations
+|   ├── Evaluate Reverse Polish Notation
 |
 ├── Math/
 |   └── Reverse Integer
