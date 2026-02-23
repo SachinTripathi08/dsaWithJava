@@ -8,7 +8,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String**
-- ✅ Problems Solved: **27**
+- ✅ Problems Solved: **28**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -61,44 +61,9 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 |---|-------------|----------|--------|
 | 1 | Reverse integer | Digit Extraction + Rebuilding | ✅ Solved
 
-## 📁 Repository Structure
+### Dynamic Programming (DP)
+| # | Problem Name | Approach | Status |
+|---|-------------|----------|--------|
+| 1 | Climbing Stairs | Bottom-Up Dynamic Programming (Fibonacci Pattern) | ✅ Solved
 
-```text
-DSA-with-Java/
-│
-├── Arrays/
-│   └── TwoSum.java
-│   ├── RemoveDuplicatesFromSortedArray.java
-|   ├── Remove Element
-|   ├── Search Insert Position
-|   ├── ContainsDuplicate
-|   ├── SingleNumber
-|   ├── Largest Number At Least Twice of Others
-|   ├── Find the XOR of Numbers Which Appear Twice
-|   ├── Squares of a Sorted Array
-|   ├── Three Consecutive Odds
-|   ├── Merge Sorted Array
-|   ├── Move Zeroes
-|   ├── Max Consecutive ones
-|   ├── Two Sum II - Input Array Is Sorted
-|   ├── Best Time to Buy and Sell Stock
-|   ├── Concatenation of Array
-|   ├── Shuffle the Array
-|   ├── Set Mismatch
-|   ├── How Many Numbers Are Smaller Than the Current Number
-|
-├── String/
-|   └── Valid Parentheses
-|   ├── Find the Difference
-|   ├── Valid Anagram
-|   ├── TO Lower Case
-|
-├── Stack/
-|   └── Build an Array With Stack Operations
-|   ├── Evaluate Reverse Polish Notation
-|   ├── Final Prices With a Special Discount in a Shop
-|
-├── Math/
-|   └── Reverse Integer
-|
-└── README.md
+
