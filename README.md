@@ -8,7 +8,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String**
-- ✅ Problems Solved: **28**
+- ✅ Problems Solved: **29**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -38,6 +38,11 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 | 18| Set Mismatch | Using Frequency | ✅Solved
 | 19| How Many Numbers Are Smaller Than the Current Number | Brute Force | ✅Solved
 
+
+### 2D Arrays
+| # | Problem Name | Approach | Status |
+|---|-------------|----------|--------|
+| 1 | Check if Grid Satisfies Conditions | Matrix Traversal | ✅Solved
 
 ### String
 | # | Problem Name | Approach | Status |
