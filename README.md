@@ -8,7 +8,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String**
-- ✅ Problems Solved: **30**
+- ✅ Problems Solved: **31**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -37,6 +37,8 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 | 17| Shuffle the Array | Direct Simulation / Index Manipulation Approach | ✅Solved
 | 18| Set Mismatch | Using Frequency | ✅Solved
 | 19| How Many Numbers Are Smaller Than the Current Number | Brute Force | ✅Solved
+| 20| Reverse integer | Digit Extraction + Rebuilding | ✅ Solved
+
 
 
 ### 2D Arrays
@@ -62,10 +64,10 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 | 3 | Final Prices With a Special Discount in a Shop |  | ✅ Solved
 
 
-### Math
+### Bit Manupulation
 | # | Problem Name | Approach | Status |
 |---|-------------|----------|--------|
-| 1 | Reverse integer | Digit Extraction + Rebuilding | ✅ Solved
+| 1 | Power of Two | Brute Force Approach | ✅ Solved
 
 ### Dynamic Programming (DP)
 | # | Problem Name | Approach | Status |
