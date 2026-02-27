@@ -8,7 +8,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String**
-- ✅ Problems Solved: **31**
+- ✅ Problems Solved: **32**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -54,6 +54,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 | 3 | Valid Anagram | Sorting Method | ✅ Solved
 | 4 | TO Lower Case | String Manipulation using Inbuilt Method | ✅ Solved
 | 5 | Faulty Keyboard | String Simulation | ✅ Solved
+| 6 | Roman to Integer | Greedy + Traversal | ✅ Solved
 
  
 ### Stack
