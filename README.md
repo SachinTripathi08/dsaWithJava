@@ -8,7 +8,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String**
-- ✅ Problems Solved: **34**
+- ✅ Problems Solved: **35**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -48,6 +48,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 |---|-------------|----------|--------|
 | 1 | Check if Grid Satisfies Conditions | Matrix Traversal | ✅Solved
 
+
 ### String
 | # | Problem Name | Approach | Status |
 |---|-------------|----------|--------|
@@ -71,6 +72,13 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 | # | Problem Name | Approach | Status |
 |---|-------------|----------|--------|
 | 1 | Power of Two | Brute Force Approach | ✅ Solved
+
+
+### Math
+| # | Problem Name | Approach | Status |
+|---|-------------|----------|--------|
+| 1 | pow(x,n) | Inbuilt Function | ✅Solved
+
 
 ### Dynamic Programming (DP)
 | # | Problem Name | Approach | Status |
