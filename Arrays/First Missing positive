@@ -1,0 +1,24 @@
+class Solution {
+    public int firstMissingPositive(int[] nums) {
+        Arrays.sort(nums);
+        ArrayList<Integer> arr = new ArrayList<>();
+        int k=0;
+        for(int num : nums){
+            if(num>0){
+                arr.add(num);
+            }
+        }
+        int j=1;
+        
+        for(int i=0;i<arr.size();i++){
+            if(arr.get(i)==j){
+               j++;
+            }else if(arr.get(i)>j){
+                return j;
+            }
+           
+        }
+        return j;
+        
+        }
+}
