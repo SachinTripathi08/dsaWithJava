@@ -8,7 +8,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String**
-- ✅ Problems Solved: **39**
+- ✅ Problems Solved: **40**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -42,7 +42,8 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 | 22| Find All Duplicates in an Array | Sorting Approach | ✅ Solved
 | 23| Median of Two Sorted Arrays | Brute Force Approach (Merge + Sort Approach) | ✅Solved
 | 24| First Missing Positive | Sorting + Sequential Checking | ✅Solved
-| 25| Search in Rotated Sorted Array II | Sorting + Linear Search | ✅Solved
+| 25| Search in Rotated Sorted Array II | Sorting + Linear Search | ✅Solved 
+| 26| Maximum Gap | Sorting Approach | ✅Solved
 
 
 
