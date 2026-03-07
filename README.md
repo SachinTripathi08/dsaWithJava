@@ -8,7 +8,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String**
-- ✅ Problems Solved: **42**
+- ✅ Problems Solved: **43**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -84,6 +84,13 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 | # | Problem Name | Approach | Status |
 |---|-------------|----------|--------|
 | 1 | Power of Two | Brute Force Approach | ✅ Solved
+
+
+
+### HashTable
+| # | Problem Name | Approach | Status |
+|---|-------------|----------|--------|
+| 1 | Contains Duplicate II | HashMap | ✅ Solved
 
 
 ### Math
