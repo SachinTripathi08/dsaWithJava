@@ -8,7 +8,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String**
-- ✅ Problems Solved: **43**
+- ✅ Problems Solved: **44**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -45,6 +45,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 | 25| Search in Rotated Sorted Array II | Sorting + Linear Search | ✅Solved 
 | 26| Maximum Gap | Sorting + Linear Scan Approach | ✅Solved
 | 27| Find the Duplicate Number | Sorting | ✅Solved
+| 28| Jump Game | Greedy | ✅Solved
 
 
 
