@@ -8,7 +8,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String**
-- ✅ Problems Solved: **44**
+- ✅ Problems Solved: **45**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -65,6 +65,8 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 | 5 | Faulty Keyboard | String Simulation | ✅ Solved
 | 6 | Roman to Integer | Greedy + Traversal | ✅ Solved
 | 7 | Reverse String | Two Pointer | ✅ Solved
+| 8 | Valid Palindrome | Two Pointer Technique | ✅ Solved
+
 
  
 ### Stack
