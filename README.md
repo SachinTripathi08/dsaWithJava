@@ -1,7 +1,7 @@
 # 📘 DSA with Java – Arrays
 
 This repository contains my **Data Structures & Algorithms (DSA)** practice using **Java**.  
-Currently, I am focusing on **Array problems** and solving **one problem daily** to build strong fundamentals.
+Currently, I am focusing on **All Data Structure problems** and solving **one problem daily** to build strong fundamentals.
 
 ---
 
