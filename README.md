@@ -8,7 +8,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String**
-- ✅ Problems Solved: **46**
+- ✅ Problems Solved: **47**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -101,6 +101,7 @@ Currently, I am focusing on **Array problems** and solving **one problem daily**
 | # | Problem Name | Approach | Status |
 |---|-------------|----------|--------|
 | 1 | pow(x,n) | Inbuilt Function | ✅Solved
+| 2 | Fibonacci Number | Iterative / Bottom-Up | ✅Solved
 
 
 ### Dynamic Programming (DP)
