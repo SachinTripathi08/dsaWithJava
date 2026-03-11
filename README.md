@@ -8,7 +8,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String**
-- ✅ Problems Solved: **48**
+- ✅ Problems Solved: **49**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -103,7 +103,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 |---|-------------|----------|--------|
 | 1 | pow(x,n) | Inbuilt Function | ✅Solved
 | 2 | Fibonacci Number | Iterative / Bottom-Up | ✅Solved
-
+| 3 | Alternating Digit Sum |Simulation / Linear Scan | ✅Solved
 
 ### Dynamic Programming (DP)
 | # | Problem Name | Approach | Status |
