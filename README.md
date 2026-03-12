@@ -8,7 +8,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String**
-- ✅ Problems Solved: **49**
+- ✅ Problems Solved: **50**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
