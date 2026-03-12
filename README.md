@@ -8,7 +8,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String**
-- ✅ Problems Solved: **50**
+- ✅ Problems Solved: **51**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -97,6 +97,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 | # | Problem Name | Approach | Status |
 |---|-------------|----------|--------|
 | 1 | Contains Duplicate II | HashMap | ✅ Solved
+| 2 | First Letter to Appear Twice | HashSet | ✅ Solved
 
 
 ### Math
