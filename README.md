@@ -68,6 +68,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 | 6 | Roman to Integer | Greedy + Traversal | ✅ Solved
 | 7 | Reverse String | Two Pointer | ✅ Solved
 | 8 | Valid Palindrome | Two Pointer Technique | ✅ Solved
+| 9 | Find First Palindromic String in the Array | Two-pointer approach | ✅ Solved
 
 
  
