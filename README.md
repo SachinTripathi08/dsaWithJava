@@ -8,7 +8,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String**
-- ✅ Problems Solved: **51**
+- ✅ Problems Solved: **52**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -47,7 +47,8 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 | 27| Find the Duplicate Number | Sorting | ✅Solved
 | 28| Jump Game | Greedy | ✅Solved
 | 29| Single Element in a Sorted Array | XOR | ✅Solved
-| 30|  Find Minimum in Rotated Sorted Array | Sorting Approach | ✅Solved
+| 30| Find Minimum in Rotated Sorted Array | Sorting Approach | ✅Solved
+| 31| Jump Game II | Greedy | ✅Solved
 
 
 
