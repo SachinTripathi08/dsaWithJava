@@ -18,9 +18,9 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 ### Arrays
 | # | Problem Name | Approach | Status |
 |---|-------------|----------|--------|
-| 1 | Two Sum | Brute Force | ✅ Solved |
-| 2 | Remove Duplicates from Sorted Array | Two Pointer | ✅ Solved |
-| 3 | Remove Element | Two Pointer | ✅ Solved |
+| 1 | Two Sum | Brute Force | ✅Solved |
+| 2 | Remove Duplicates from Sorted Array | Two Pointer | ✅Solved |
+| 3 | Remove Element | Two Pointer | ✅Solved |
 | 4 | Search Insert Position | Linear Search | ✅Solved
 | 5 | ContainsDuplicate | HashSet | ✅Solved
 | 6 | SingleNumber | XOR | ✅Solved
