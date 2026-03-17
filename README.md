@@ -1,4 +1,4 @@
-# 📘 DSA with Java – Arrays
+# 📘 DSA with Java – Arrays, String, Stack, Linked List, DP
 
 This repository contains my **Data Structures & Algorithms (DSA)** practice using **Java**.  
 Currently, I am focusing on **All Data Structure problems** and solving **one problem daily** to build strong fundamentals.
