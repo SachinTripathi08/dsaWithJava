@@ -8,7 +8,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String, Stack, Linked List, DP**
-- ✅ Problems Solved: **56**
+- ✅ Problems Solved: **57**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -23,7 +23,6 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 | 3 | Remove Element | Two Pointer | ✅Solved |
 | 4 | Search Insert Position | Linear Search | ✅Solved
 | 5 | ContainsDuplicate | HashSet | ✅Solved
-| 6 | SingleNumber | XOR | ✅Solved
 | 7 | Largest Number At Least Twice of Others | Greedy | ✅Solved
 | 8 | Find the XOR of Numbers Which Appear Twice | Brute Force | ✅Solved
 | 9 | Squares of a Sorted Array | Brute Force with Sorting | ✅Solved
@@ -63,46 +62,48 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 ### String
 | # | Problem Name | Approach | Status |
 |---|-------------|----------|--------|
-| 1 | Valid Parentheses | STACK | ✅ Solved 
-| 2 | Find the Difference | XOR | ✅ Solved
-| 3 | Valid Anagram | Sorting Method | ✅ Solved
-| 4 | TO Lower Case | String Manipulation using Inbuilt Method | ✅ Solved
-| 5 | Faulty Keyboard | String Simulation | ✅ Solved
-| 6 | Roman to Integer | Greedy + Traversal | ✅ Solved
-| 7 | Reverse String | Two Pointer | ✅ Solved
-| 8 | Valid Palindrome | Two Pointer Technique | ✅ Solved
-| 9 | Find First Palindromic String in the Array | Two-pointer approach | ✅ Solved
-| 10| Find the Index of the First Occurrence in a String | Sliding Window String Matching | ✅ Solved
+| 1 | Valid Parentheses | STACK | ✅Solved 
+| 2 | Find the Difference | XOR | ✅Solved
+| 3 | Valid Anagram | Sorting Method | ✅Solved
+| 4 | TO Lower Case | String Manipulation using Inbuilt Method | ✅Solved
+| 5 | Faulty Keyboard | String Simulation | ✅Solved
+| 6 | Roman to Integer | Greedy + Traversal | ✅Solved
+| 7 | Reverse String | Two Pointer | ✅Solved
+| 8 | Valid Palindrome | Two Pointer Technique | ✅Solved
+| 9 | Find First Palindromic String in the Array | Two-pointer approach | ✅Solved
+| 10| Find the Index of the First Occurrence in a String | Sliding Window String Matching | ✅Solved
 
 
  
 ### Stack
 | # | Problem Name | Approach | Status |
 |---|-------------|----------|--------|
-| 1 | Build an Array With Stack Operations | Simulation Approach (with Two Pointers) | ✅ Solved
-| 2 | Evaluate Reverse Polish Notation | Stack (LIFO) | ✅ Solved
-| 3 | Final Prices With a Special Discount in a Shop |  | ✅ Solved
+| 1 | Build an Array With Stack Operations | Simulation Approach (with Two Pointers) | ✅Solved
+| 2 | Evaluate Reverse Polish Notation | Stack (LIFO) | ✅Solved
+| 3 | Final Prices With a Special Discount in a Shop |  | ✅Solved
 
 
 ### Linked List
 | # | Problem Name | Approach | Status |
 |---|-------------|----------|--------|
-| 1 | Add Two Numbers | Digit-by-Digit with Carry | ✅Solved
+| 1 | Add Two Numbers | Digit-by-Digit with Carry |✅Solved
 
 
 ### Bit Manupulation
 | # | Problem Name | Approach | Status |
 |---|-------------|----------|--------|
-| 1 | Power of Two | Brute Force Approach | ✅ Solved
+| 1 | Power of Two | Brute Force Approach | ✅Solved
+| 2 | Single Number | XOR | ✅Solved
+| 3 | Single Number II | HashMap | ✅Solved
 
 
 
 ### HashTable
 | # | Problem Name | Approach | Status |
 |---|-------------|----------|--------|
-| 1 | Contains Duplicate II | HashMap | ✅ Solved
-| 2 | First Letter to Appear Twice | HashSet | ✅ Solved
-| 3 | Happy Number| HashSet | ✅ Solved
+| 1 | Contains Duplicate II | HashMap | ✅Solved
+| 2 | First Letter to Appear Twice | HashSet | ✅Solved
+| 3 | Happy Number| HashSet | ✅Solved
 
 
 ### Math
@@ -115,6 +116,6 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 ### Dynamic Programming (DP)
 | # | Problem Name | Approach | Status |
 |---|-------------|----------|--------|
-| 1 | Climbing Stairs | Bottom-Up Dynamic Programming (Fibonacci Pattern) | ✅ Solved
+| 1 | Climbing Stairs | Bottom-Up Dynamic Programming (Fibonacci Pattern) | ✅Solved
 
 
