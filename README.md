@@ -8,7 +8,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String, Stack, Linked List, DP**
-- ✅ Problems Solved: **55**
+- ✅ Problems Solved: **56**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -72,6 +72,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 | 7 | Reverse String | Two Pointer | ✅ Solved
 | 8 | Valid Palindrome | Two Pointer Technique | ✅ Solved
 | 9 | Find First Palindromic String in the Array | Two-pointer approach | ✅ Solved
+| 10| Find the Index of the First Occurrence in a String | Sliding Window String Matching | ✅ Solved
 
 
  
