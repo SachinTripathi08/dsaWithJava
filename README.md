@@ -8,7 +8,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String, Stack, Linked List, DP**
-- ✅ Problems Solved: **57**
+- ✅ Problems Solved: **58**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -50,6 +50,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 | 31| Jump Game II | Greedy | ✅Solved
 | 32| Trapping Rainwater problem | Two Pointer | ✅Solved
 | 33| Product of Array Except Self | Prefix and Suffix passes | ✅Solved
+| 34| Rotate Array | Brute Force | ✅Solved
 
 
 
