@@ -8,7 +8,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String, Stack, Linked List, DP**
-- ✅ Problems Solved: **58**
+- ✅ Problems Solved: **59**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -88,6 +88,12 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 | # | Problem Name | Approach | Status |
 |---|-------------|----------|--------|
 | 1 | Add Two Numbers | Digit-by-Digit with Carry |✅Solved
+
+
+### Sliding Window
+| # | Problem Name | Approach | Status |
+|---|-------------|----------|--------|
+| 1 | Minimum Size Subarray Sum | Sliding Window |✅Solved
 
 
 ### Bit Manupulation
