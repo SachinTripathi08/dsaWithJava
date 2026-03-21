@@ -1,0 +1,14 @@
+class Solution {
+    public int[] searchRange(int[] nums, int target) {
+        int n=nums.length;
+        int note1=-1;
+        int note2=-1;
+        for(int i=0;i<n;i++){
+           if(nums[i]==target){
+            if(note1==-1) note1=i;
+            note2=i;
+           }
+        }
+        return new int[]{note1,note2};
+    }
+}
