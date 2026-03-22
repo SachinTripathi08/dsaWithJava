@@ -8,7 +8,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String, Stack, Linked List, DP**
-- ✅ Problems Solved: **60**
+- ✅ Problems Solved: **61**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -95,6 +95,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 | # | Problem Name | Approach | Status |
 |---|-------------|----------|--------|
 | 1 | Minimum Size Subarray Sum | Sliding Window |✅Solved
+| 2 | Longest Substring Without Repeating Characters | HashMap | ✅Solved
 
 
 ### Bit Manupulation
