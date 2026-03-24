@@ -8,7 +8,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String, Stack, Linked List, DP, HashMap, HashSet**
-- ✅ Problems Solved: **62**
+- ✅ Problems Solved: **63**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -75,6 +75,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 | 9 | Find First Palindromic String in the Array | Two-pointer approach | ✅Solved
 | 10| Find the Index of the First Occurrence in a String | Sliding Window String Matching | ✅Solved
 | 11| Integer to Roman | Greedy | ✅Solved
+| 12| Longest Common Prefix | Horizontal Scanning | ✅Solved
 
 
  
