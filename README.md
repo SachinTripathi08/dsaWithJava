@@ -8,7 +8,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String, Stack, Linked List, DP, HashMap, HashSet**
-- ✅ Problems Solved: **63**
+- ✅ Problems Solved: **64**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -59,6 +59,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 | # | Problem Name | Approach | Status |
 |---|-------------|----------|--------|
 | 1 | Check if Grid Satisfies Conditions | Matrix Traversal | ✅Solved
+| 2 | Valid Sudoku | Hashing(HashSet) | ✅Solved
 
 
 ### String
