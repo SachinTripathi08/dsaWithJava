@@ -8,7 +8,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String, Stack, Linked List, DP, HashMap, HashSet**
-- ✅ Problems Solved: **66**
+- ✅ Problems Solved: **67**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -92,7 +92,8 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 ### Linked List
 | # | Problem Name | Approach | Status |
 |---|-------------|----------|--------|
-| 1 | Add Two Numbers | Digit-by-Digit with Carry |✅Solved
+| 1 | Add Two Numbers | Digit-by-Digit with Carry | ✅Solved
+| 2 | Merge Two Sorted Lists | Two Pointer Technique | ✅Solved
 
 
 ### Sliding Window
