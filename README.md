@@ -8,7 +8,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String, Stack, Linked List, DP, HashMap, HashSet**
-- ✅ Problems Solved: **67**
+- ✅ Problems Solved: **68**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -78,6 +78,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 | 11| Integer to Roman | Greedy | ✅Solved
 | 12| Longest Common Prefix | Horizontal Scanning | ✅Solved
 | 13| Substring with Concatenation of All Words | sliding window with HashMap | ✅Solved
+| 14| Longest Palindromic Substring | Expand Around Center | ✅Solved
 
 
  
