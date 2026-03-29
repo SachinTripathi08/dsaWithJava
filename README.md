@@ -22,7 +22,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 | 2 | Remove Duplicates from Sorted Array | Two Pointer | ✅Solved |
 | 3 | Remove Element | Two Pointer | ✅Solved |
 | 4 | Search Insert Position | Linear Search | ✅Solved
-| 5 | ContainsDuplicate | HashSet | ✅Solved
+| 5 | Contains Duplicate | HashSet | ✅Solved
 | 7 | Largest Number At Least Twice of Others | Greedy | ✅Solved
 | 8 | Find the XOR of Numbers Which Appear Twice | Brute Force | ✅Solved
 | 9 | Squares of a Sorted Array | Brute Force with Sorting | ✅Solved
