@@ -95,6 +95,8 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 |---|-------------|----------|--------|
 | 1 | Add Two Numbers | Digit-by-Digit with Carry | ✅Solved
 | 2 | Merge Two Sorted Lists | Two Pointer Technique | ✅Solved
+| 3 | Remove Nth Node From End of List | Fast & Slow Pointer | ✅Solved
+
 
 
 ### Sliding Window
