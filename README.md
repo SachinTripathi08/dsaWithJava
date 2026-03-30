@@ -8,7 +8,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String, Stack, Linked List, DP, HashMap, HashSet**
-- ✅ Problems Solved: **68**
+- ✅ Problems Solved: **69**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
