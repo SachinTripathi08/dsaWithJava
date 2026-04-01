@@ -1,4 +1,4 @@
-# 📘 DSA with Java – Arrays, String, Stack, Linked List, DP
+# 📘 DSA with Java – Arrays, String, Stack, Linked List, DP, Binary Tree
 
 This repository contains my **Data Structures & Algorithms (DSA)** practice using **Java**.  
 Currently, I am focusing on **All Data Structure problems** and solving **one problem daily** to build strong fundamentals.
@@ -7,8 +7,8 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 
 ## 🚀 Current Status
 - ✅ Language: **Java**
-- ✅ Topic: **Arrays, String, Stack, Linked List, DP, HashMap, HashSet**
-- ✅ Problems Solved: **70**
+- ✅ Topic: **Arrays, String, Stack, Linked List, DP, HashMap, HashSet, Binary Tree**
+- ✅ Problems Solved: **71**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -135,5 +135,11 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 | # | Problem Name | Approach | Status |
 |---|-------------|----------|--------|
 | 1 | Climbing Stairs | Bottom-Up Dynamic Programming (Fibonacci Pattern) | ✅Solved
+
+
+### Binary Tree
+| # | Problem Name | Approach | Status |
+|---|-------------|----------|--------|
+| 1 | Path Sum | DFS - Recursion | ✅Solved
 
 
