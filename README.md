@@ -8,7 +8,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String, Stack, Linked List, DP, HashMap, HashSet, Binary Tree**
-- ✅ Problems Solved: **71**
+- ✅ Problems Solved: **72**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -113,6 +113,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 | 1 | Power of Two | Brute Force Approach | ✅Solved
 | 2 | Single Number | XOR | ✅Solved
 | 3 | Single Number II | HashMap | ✅Solved
+| 4 | Reverse Bits | Bit Manipulation | ✅Solved
 
 
 
