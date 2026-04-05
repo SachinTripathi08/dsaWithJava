@@ -8,7 +8,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String, Stack, Linked List, DP, HashMap, HashSet, Binary Tree**
-- ✅ Problems Solved: **74**
+- ✅ Problems Solved: **75**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -132,6 +132,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 | 1 | pow(x,n) | Inbuilt Function | ✅Solved
 | 2 | Fibonacci Number | Iterative / Bottom-Up | ✅Solved
 | 3 | Alternating Digit Sum |Simulation / Linear Scan | ✅Solved
+| 4 | Add Digits | Digital Root | ✅Solved
 
 ### Dynamic Programming (DP)
 | # | Problem Name | Approach | Status |
