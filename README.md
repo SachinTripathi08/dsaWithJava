@@ -135,7 +135,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 | 3 | Alternating Digit Sum |Simulation / Linear Scan | ✅Solved
 | 4 | Add Digits | Digital Root | ✅Solved
 | 5 | Power of Four | Iterative Division Approach | ✅Solved
-|6 | Nim Game | Modulo Approach | ✅Solved
+| 6 | Nim Game | Modulo Approach | ✅Solved
 
 
 ### Dynamic Programming (DP)
