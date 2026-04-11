@@ -137,7 +137,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 | 5 | Power of Four | Iterative Division Approach | ✅Solved
 | 6 | Nim Game | Modulo Approach | ✅Solved
 | 7 | Power of Three | Repeated Division / Simulation Approach | ✅Solved
-| 8 |  Ugly Number |  Repeated Division | ✅Solved
+| 8 | Ugly Number |  Repeated Division | ✅Solved
 
 
 
