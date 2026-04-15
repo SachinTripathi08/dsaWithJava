@@ -8,7 +8,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String, Stack, Linked List, DP, HashMap, HashSet, Binary Tree**
-- ✅ Problems Solved: **84**
+- ✅ Problems Solved: **85**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -98,6 +98,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 | # | Problem Name | Approach | Status |
 |---|-------------|----------|--------|
 | 1 | Implement Stack using Queues | Queue Rotation(Use Two Queues) | ✅Solved
+| 2 | Implement Queue using Stacks | Two Stack Approach | ✅Solved
 
 
 ### Linked List
