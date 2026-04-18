@@ -8,7 +8,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String, Stack, Linked List, DP, HashMap, HashSet, Binary Tree**
-- ✅ Problems Solved: **87**
+- ✅ Problems Solved: **88**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -56,6 +56,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 | 37| Search in Rotated Sorted Array | Binary Search | ✅Solved
 | 38| Minimum Distance to the Target Element | Linear Search | ✅Solved
 | 39| Sort Colors | 3-way partitioning | ✅Solved
+| 40| Peak Element | Binary Search | ✅Solved
 
 
 
