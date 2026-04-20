@@ -8,7 +8,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String, Stack, Linked List, DP, HashMap, HashSet, Binary Tree**
-- ✅ Problems Solved: **89**
+- ✅ Problems Solved: **90**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -111,6 +111,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 | 3 | Remove Nth Node From End of List | Fast & Slow Pointer | ✅Solved
 | 4 | Reverse Linked List | Iterative Approach | ✅Solved
 | 5 | Delete Node in a Linked List | Overwrite and Delete Next Node | ✅Solved
+| 6 | Remove Linked List Elements | Linked List Deletion using Previous Pointer / Dummy Node Technique | ✅Solved
 
 
 
