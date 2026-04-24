@@ -8,7 +8,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String, Stack, Linked List, DP, HashMap, HashSet, Binary Tree**
-- ✅ Problems Solved: **93**
+- ✅ Problems Solved: **94**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -170,6 +170,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 | 1 | Path Sum | DFS - Recursion | ✅Solved
 | 2 | Binary Tree Inorder Traversal | Iterative Inorder Traversal using Stack (DFS) | ✅Solved
 | 3 | Same tree | Recursive Depth-First Search | ✅Solved
+| 4 | Symmetric Tree | Recursion (Mirror Check) | ✅Solved
 
 
 
