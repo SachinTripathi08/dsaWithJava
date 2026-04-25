@@ -8,7 +8,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String, Stack, Linked List, DP, HashMap, HashSet, Binary Tree**
-- ✅ Problems Solved: **94**
+- ✅ Problems Solved: **96**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -58,6 +58,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 | 39| Sort Colors | 3-way partitioning | ✅Solved
 | 40| Peak Element | Binary Search | ✅Solved
 | 41| Permutations | Backtracking | ✅Solved
+| 42| Compare Sums of Bitonic Parts | Linear Scan + Prefix/Suffix Sum | ✅Solved
 
 
 
@@ -155,6 +156,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 | 6 | Nim Game | Modulo Approach | ✅Solved
 | 7 | Power of Three | Repeated Division / Simulation Approach | ✅Solved
 | 8 | Ugly Number |  Repeated Division | ✅Solved
+| 9 | Valid Digit Number | Digit extraction | ✅Solved
 
 
 
