@@ -8,7 +8,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String, Stack, Linked List, DP, HashMap, HashSet, Binary Tree**
-- ✅ Problems Solved: **98**
+- ✅ Problems Solved: **99**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -96,6 +96,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 | 1 | Build an Array With Stack Operations | Simulation Approach (with Two Pointers) | ✅Solved
 | 2 | Evaluate Reverse Polish Notation | Stack (LIFO) | ✅Solved
 | 3 | Final Prices With a Special Discount in a Shop |  | ✅Solved
+| 4 | Min Stack | Two Stack Approach | ✅Solved
 
 
 ### Queue
