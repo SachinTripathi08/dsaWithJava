@@ -8,7 +8,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String, Stack, Linked List, DP, HashMap, HashSet, Binary Tree**
-- ✅ Problems Solved: **99**
+- ✅ Problems Solved: **100**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -160,6 +160,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 | 8 | Ugly Number |  Repeated Division | ✅Solved
 | 9 | Valid Digit Number | Digit extraction | ✅Solved
 | 10| Divide Two Integers | Bit Manipulation | ✅Solved
+| 11| Perfect Squares | Dynamic Programming (Bottom-Up DP) | ✅Solved
 
 
 
