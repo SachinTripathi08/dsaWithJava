@@ -8,7 +8,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 ## 🚀 Current Status
 - ✅ Language: **Java**
 - ✅ Topic: **Arrays, String, Stack, Linked List, DP, HashMap, HashSet, Binary Tree**
-- ✅ Problems Solved: **108**
+- ✅ Problems Solved: **109**
 - 🔁 Practice Frequency: **1 problem daily**
 
 ---
@@ -91,6 +91,7 @@ Currently, I am focusing on **All Data Structure problems** and solving **one pr
 | 13| Substring with Concatenation of All Words | sliding window with HashMap | ✅Solved
 | 14| Longest Palindromic Substring | Expand Around Center | ✅Solved
 | 15| Rotate String | Concatenation + Substring Check (Optimal Approach) | ✅Solved
+| 16| Remove Duplicate Letters | Monotonic Stack Greedy Approach | ✅Solved
 
 
  
